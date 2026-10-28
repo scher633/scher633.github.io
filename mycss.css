@@ -5,10 +5,10 @@ text-decoration:overline;
 color:aliceblue; 
 }
 h1{     margin:10px;
-        font-family:Caesar Dressing;
+        font-family:"Caesar Dressing";
         font-size: 250%;
         word-spacing: 10%;
-        letter-spacing: 8%;
+        letter-spacing: 5px;
         color:#3e578d;
         background-color:aliceblue;
         text-align:center; 
@@ -18,9 +18,9 @@ h1{     margin:10px;
 
 ul{list-style-type: none;
   background-color: #3e578d;
-  font-family:caesar dressing;
+  font-family:"caesar dressing";
   word-spacing: 10%;
-  letter-spacing: 8%;
+  letter-spacing: 2px;
   border-radius:15px;
   margin: 0;
   padding: 0;
@@ -43,9 +43,9 @@ ul li a:hover {
 
 h2 {color:aliceblue;
         background-color: #7a8bb0;
-        font-family:Caesar Dressing;
+        font-family:"Caesar Dressing";
         word-spacing: 10%;
-        letter-spacing: 8%;
+        letter-spacing: 5px;
         border-radius: 15px;
         text-align:center;
         font-size:200%;
@@ -56,13 +56,14 @@ p       {text-indent: 40px;
         font-family: mrs-eaves;
         font-style: normal;
         font-weight: 400;
+        color:antiquewhite;
         }
 #pagefooter {background-color:aliceblue; 
-        font-family:caesar dressing;
+        font-family:"caesar dressing";
         line-height: 50px; 
         border-radius: 15px; 
         word-spacing: 10%;
-        letter-spacing: 8%;
+        letter-spacing: 5px;
         text-align:center;
         color:#3e578d;}
 aside {padding: 2%; text-align:center; margin-left: 10%; margin-right: 10%;;
