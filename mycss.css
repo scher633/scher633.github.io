@@ -1,0 +1,107 @@
+
+body {background-color:#ca6641}
+nav {font-size:larger;
+text-decoration:overline;
+color:aliceblue; 
+}
+h1{     margin:10px;
+        font-family:Caesar Dressing;
+        font-size: 250%;
+        word-spacing: 10%;
+        letter-spacing: 8%;
+        color:#3e578d;
+        background-color:aliceblue;
+        text-align:center; 
+        border-radius: 15px;}
+
+
+
+ul{list-style-type: none;
+  background-color: #3e578d;
+  font-family:caesar dressing;
+  word-spacing: 10%;
+  letter-spacing: 8%;
+  border-radius:15px;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+.list { list-style-type:circle; background-color:#ca6641;}
+
+ul li {
+  float: left;}
+
+ul li a {
+  display: block;
+  color: aliceblue;
+  text-align: center;
+  padding: 20px 20px;
+  text-decoration: overline;}
+
+ul li a:hover {
+  background-color: #111111;}
+
+h2 {color:aliceblue;
+        background-color: #7a8bb0;
+        font-family:Caesar Dressing;
+        word-spacing: 10%;
+        letter-spacing: 8%;
+        border-radius: 15px;
+        text-align:center;
+        font-size:200%;
+        margin-left:5%; margin-right: 5%;}
+h3 {color:antiquewhite; text-align:center; font-family:mrs-eaves; font-size:150%;}
+p       {text-indent: 40px;
+        font-size: 125%;
+        font-family: mrs-eaves;
+        font-style: normal;
+        font-weight: 400;
+        }
+#pagefooter {background-color:aliceblue; 
+        font-family:caesar dressing;
+        line-height: 50px; 
+        border-radius: 15px; 
+        word-spacing: 10%;
+        letter-spacing: 8%;
+        text-align:center;
+        color:#3e578d;}
+aside {padding: 2%; text-align:center; margin-left: 10%; margin-right: 10%;;
+        border:dotted;
+        font-family:mrs-eaves; font-size: 140%;
+        color:#3e578d;
+        background-color:antiquewhite;
+        border-color:#3e578d; border-radius: 15px;}
+
+table {border:solid; table-layout:auto;
+        border-color: aliceblue; align-content: center;
+        font-family:mrs-eaves;
+        font-size: 125%;
+        Color:antiquewhite;
+}
+td, th {
+  border: 14px solid; border-color: aliceblue;
+  text-align: center;
+        padding: 8px;}
+.display {border:5px solid; border-color:aliceblue;
+text-align:center; padding:8px;}
+
+ol {margin:5px 1px 2px 20px;
+font-family:mrs-eaves; }
+.big {color:antiquewhite;
+text-indent:5px;
+font-size:150%;
+margin-left:10%; margin-right:10%;
+}
+.color {color:#3e578d;}
+.bigger {color:#3e578d;
+        border:double;
+        border-radius:15px;
+background-color:aliceblue;
+text-indent:5px;
+font-size:200%;
+margin-left:10%; margin-right:10%;
+}
+.here {float:right;
+}
+img {display:flex; margin:auto; position:relative; padding:2%; }
+.whowas {margin-left:8%; margin-right:8%;}
